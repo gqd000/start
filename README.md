@@ -22,7 +22,7 @@
     <b>
     <form action="https://gqd000.github.io/HTML-form-test/" method="GET">
     <h1 style="font-size:600%;">注意！注意！注意！</h1>
-    
+    <p style="font-size: 180%;">（建议带耳机测试）</p>
     <p style="font-size: 180%;">这只是一个娱乐性测试网站，绝不包含垃圾信息、有害信息，可放心点击</p>
     <p style="font-size: 180%;">仅供测试娱乐使用</p>
     <input type="submit" value="开始" style="height: 50px;width: 150px;">
